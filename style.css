@@ -42,7 +42,9 @@ div#divText p {
 
 div#divText p.paragraph {
    line-height: 2.75em;
-   padding: 30px;
+   padding: 0px;
+   margin-top: 0px;
+   margin-bottom: 10px;
    font-family: Gentium;
 }
 
@@ -52,9 +54,8 @@ div#divText span.parNumber {
 
 div#divText p.comment {
    font-family: mono;
-   font-size: 15pt;
-   background-color: antiquewhite;
-   padding: 10px;
+   font-size: 10pt;
+   padding: 0px;
    margin: 0px;
 }
 
